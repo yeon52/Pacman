@@ -11,13 +11,13 @@
 
 ## 실행화면
 
-![KakaoTalk_20200909_182202699](https://user-images.githubusercontent.com/52206971/92580798-cf63e480-f2c9-11ea-9023-024ce23147f4.png)
+![image](https://user-images.githubusercontent.com/52206971/92685680-35f10d00-f373-11ea-96d7-2dab19047850.png)
 
-![KakaoTalk_20200909_182209083](https://user-images.githubusercontent.com/52206971/92581181-4600e200-f2ca-11ea-93ab-68758ca15dac.png)
+![image](https://user-images.githubusercontent.com/52206971/92685711-4b663700-f373-11ea-9f31-e81b973c7717.png)
+![image](https://user-images.githubusercontent.com/52206971/92685722-4dc89100-f373-11ea-830a-6916d91e65df.png)
 
-![KakaoTalk_20200909_182215273](https://user-images.githubusercontent.com/52206971/92581188-48633c00-f2ca-11ea-8434-64be3c5cfadf.png)
+![image](https://user-images.githubusercontent.com/52206971/92685758-5b7e1680-f373-11ea-938e-f1b3dabaa7b5.png)
+![image](https://user-images.githubusercontent.com/52206971/92685767-5de07080-f373-11ea-8ab2-3f2918329e11.png)
 
-![KakaoTalk_20200909_182225603](https://user-images.githubusercontent.com/52206971/92581193-4a2cff80-f2ca-11ea-9aa7-5e29f00a3f73.png)
-
-![KakaoTalk_20200909_182230795](https://user-images.githubusercontent.com/52206971/92581202-4bf6c300-f2ca-11ea-9079-86117b4fd42a.png)
-![KakaoTalk_20200909_182236218](https://user-images.githubusercontent.com/52206971/92581210-4e591d00-f2ca-11ea-960d-bf6b1cca15da.png)
+![image](https://user-images.githubusercontent.com/52206971/92685806-6fc21380-f373-11ea-8893-102e2741865c.png)
+![image](https://user-images.githubusercontent.com/52206971/92685814-72246d80-f373-11ea-9e1c-50179b0ab369.png)
