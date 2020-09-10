@@ -11,6 +11,7 @@
 
 ## 실행화면
 - 첫 화면
+
   ![image](https://user-images.githubusercontent.com/52206971/92685680-35f10d00-f373-11ea-96d7-2dab19047850.png)
 
 - 메뉴선택(게임설명, start!)
